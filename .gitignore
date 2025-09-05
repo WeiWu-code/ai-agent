@@ -4,6 +4,9 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 
+### Demo ###
+/src/main/java/org/ww/weiaiagent/demo/
+
 ### STS ###
 .apt_generated
 .classpath
